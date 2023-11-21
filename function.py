@@ -6,3 +6,6 @@ def maximumNumber(sub):
     
 
 maximumNumber(45)
+
+def new(sub1):
+    pass
