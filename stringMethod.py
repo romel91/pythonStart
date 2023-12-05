@@ -10,7 +10,7 @@ print(str1.lower())
 # The strip() method removes any white spaces before and after the string.
 
 str2 = " Silver Spoon "
-print(str2.strip)
+print(str2.strip())
 
 # rstrip() :
 # the rstrip() removes any trailing characters. Example:
