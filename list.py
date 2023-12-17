@@ -52,7 +52,7 @@ print(namesWith_O)
 # l.reverse()
 # print(l.index(43))
 # print(l.count(4)) it detect repeatation of a value
-# l.insert(4 ,"Romel") index 4 is romel
+# l.insert(4 ,"Romel") index 4 is romel   
 # print(l)
 
 #add a list to a list
@@ -63,6 +63,9 @@ print(namesWith_O)
 # concate
 colors = ["voilet", "indigo", "blue", "green"]
 colors2 = ["yellow", "orange", "red"]
-print(colors + colors2)
+colors3 =["ultrablur","lightGray"]
+colors2.append(colors3)
+print(colors2)
+# print(colors + colors2)
 
 
